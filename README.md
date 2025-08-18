@@ -19,5 +19,3 @@ It is designed as a landing page with navigation links and a welcome section.
 
 ---
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
